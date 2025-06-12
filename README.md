@@ -88,7 +88,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://https://github.com/Jhumpa16/Northwind_salesDataset
+git clone https://github.com/Jhumpa16/Northwind_salesDataset
 Open Northwind_Sales_Dashboard.pbix in Power BI Desktop
 
 Explore visuals and insights or connect your own dataset.
