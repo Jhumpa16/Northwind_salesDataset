@@ -92,6 +92,9 @@ git clone https://github.com/Jhumpa16/Northwind_salesDataset
 Open Northwind_Sales_Dashboard.pbix in Power BI Desktop
 
 Explore visuals and insights or connect your own dataset.
+## 📁 External Resources
+
+- [Download Data Files (Google Drive)]https://drive.google.com/file/d/17V-7j1fmr1QoNzkTcWxm2AIOliXSchuP/view?usp=sharing
 
 
 
